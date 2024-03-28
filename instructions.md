@@ -67,7 +67,7 @@
 
 ## Einkaufen
 
--   Im direkt Umfeld: Kaufland, Lidl und Rossmann
+-   Im direkt Umfeld: [Kaufland](https://maps.app.goo.gl/bM13CzUX6wPpUrUU9), [Lidl](https://maps.app.goo.gl/L6SQ9qRxg6nEggLu7) und [Rossmann](https://maps.app.goo.gl/xZr2iYcxiBXVJABPA)
     
 
   
@@ -96,15 +96,15 @@
 	-   2 schöne Spielplätze mit dem Auto erreichbar und beide Gratis Parken an der Straße, namen bei Google Maps eingeben:
     
 
-	-   Spielplatz Lausener Weg (7min Auto außerhalb)
+	-   [Spielplatz Lausener Weg](https://maps.app.goo.gl/MV1uzqD9sdLBcjoq6) (7min Auto außerhalb)
 	    
-	-   Spielplatz "Fliegenpilz" (10-15min Auto innerhalb Stadt)
+	-   [Spielplatz "Fliegenpilz"](https://maps.app.goo.gl/qW5kPHgEfigubG6F8) (10-15min Auto innerhalb Stadt)
     
 
 	-   Großer See in der Nähe “Cospudener See”
     
 
-	-   Haben das letzte geparkt (kostenpflichtig) auf “Parkplatz, Cospudener See Hafen” und sind von dort an den See nach unten gelaufen
+	-   Haben das letzte geparkt (kostenpflichtig) auf [“Parkplatz, Cospudener See Hafen”](https://maps.app.goo.gl/tVUJsQ7Z9pBPmvhSA) und sind von dort an den See nach unten gelaufen
     
 
   
