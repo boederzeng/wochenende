@@ -93,7 +93,7 @@
 -   Draußen
     
 
-	-   2 schöne Spielplätze mit dem Auto erreichbar und beide Gratis Parken an der Straße, namen bei Google Maps eingeben:
+	-   2 schöne Spielplätze mit dem Auto erreichbar und beide Gratis Parken an der Straße:
     
 
 	-   [Spielplatz Lausener Weg](https://maps.app.goo.gl/MV1uzqD9sdLBcjoq6) (7min Auto außerhalb)
@@ -118,3 +118,20 @@
 	-   Lassen Mia und Adam Handy/Fernsehschauen wenn wir sachen zu tun haben, da ich nicht da bin hat Adam kein Handy. Ihm dann das Tablett geben oder was auf dem Fernseher anmachen (Youtube, Netflix etc ist alles da)
     
 	-   Finn in seinen Hochstuhl setzen mit Keksen
+
+
+
+-   Mikrowelle:
+    
+
+    -    Runde Taste einfach 1x mal drücken für 30sec warm
+
+
+- Türen:
+
+
+    - Wir lassen Küche, Bad und Haustür abgeschlossen wenn wir zu Hause sind, spart Arbeit mit Finn
+
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e24BlWvSLNM?si=PvoD3F5N1jfc9qS1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
