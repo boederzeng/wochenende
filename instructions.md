@@ -4,13 +4,13 @@
 -   Finn:
     
 
-	-   ca. 20:30 Uhr
+	-   Vormittags 11-12 Uhr, Nachmittags 16-18 Uhr, Abends ca. 20:30 Uhr
     
 	-   Raum verdunkeln (Decken am Fenster)
     
 	-   Geräuschmaschine an
     
-	-   neue Windel direkt vorm Schlafen,
+	-   neue Windel direkt vorm Schlafen (Windelzeug in der Stube neben Couch)
     
 	-   Schlafanzug an
     
@@ -104,7 +104,7 @@
 	-   Großer See in der Nähe “Cospudener See”
     
 
-	-   Haben das letzte geparkt (kostenpflichtig) auf [“Parkplatz, Cospudener See Hafen”](https://maps.app.goo.gl/tVUJsQ7Z9pBPmvhSA) und sind von dort an den See nach unten gelaufen
+	-   Haben das letzte mal geparkt (kostenpflichtig) auf [“Parkplatz, Cospudener See Hafen”](https://maps.app.goo.gl/tVUJsQ7Z9pBPmvhSA) und sind von dort an den See nach unten gelaufen
     
 
   
@@ -135,4 +135,4 @@
 
 - Anleitung Geräuschmaschine:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e24BlWvSLNM?si=PvoD3F5N1jfc9qS1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=zycu8vkMBH4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
